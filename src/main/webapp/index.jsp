@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2 style="color: orange;">SALAAR DEVARATHA RAISAAR</h2>
+<h2 style="color: orange;">DEVARA VEERA VIHARAM</h2>
 </body>
 </html>
